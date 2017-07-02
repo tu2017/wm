@@ -13,7 +13,7 @@
   </tr>
   <tr>
 <td align=center>网门网址 https://git.io/ogate 请收藏浏览器<br/>
-适合苹果、安卓、平板、电脑各网络终端<br/>
+适合苹果、安卓、平板、电脑各网络终端<br/></td>
   </tr>
   <tr>
     <td align=center>
