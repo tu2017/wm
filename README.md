@@ -12,9 +12,10 @@
        </td>
   </tr>
   <tr>
-<td align=center>网门网址 https://git.io/ogate 请收藏浏览器<br/>
-适合苹果、安卓、平板、电脑各网络终端<br/></td>
-  </tr>
+<td align=center>网门 網門<br/>
+欢迎来到固定页面，请收藏浏览器<br/>
+https://git.io/ogate <br/>
+  </tr>
   <tr>
     <td align=center>
 如打开慢，缓冲稍等或刷新<br/>
@@ -22,8 +23,8 @@
   <tr>
   <td align=center>请尝试不同入口，进入动态网址<br/>
       <a target="_blank" href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=wnel">入口</a>
-      <a target="_blank" href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=wnel">入口</a><br/>
-      <a target="_blank" href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=wnel">入口</a>
+      <a target="_blank" href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=wnel">入口</a>
+      <a target="_blank" href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=wnel">入口</a><br/>
       <a target="_blank" href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=wnel">入口</a>
       <a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">入口</a><br/>
 微信如果提示：停止访问该网页<br/>
