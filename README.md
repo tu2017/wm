@@ -4,7 +4,8 @@
   </tr>
   <tr>
 <td align=left>本页短网址：https://git.io/vQogU<br/>
-本页面如遇打不开，请复制上面网址到谷歌浏览器
+本页面如遇打不开，请复制上面网址到谷歌浏览器<br/>
+苹果用户直接复制到苹果自带浏览器打开<br/>
 </tr>
 <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
