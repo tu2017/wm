@@ -30,6 +30,7 @@
 <td align=center>网门 網門<br/>
 欢迎来到固定页面，请收藏浏览器<br/>
 ❤ https://git.io/ogate ❤ <br/>
+❤ https://github.com/ogate/ogate ❤ <br/>
 适合苹果、安卓、平板、电脑<br/>
 </tr>
 <tr>
